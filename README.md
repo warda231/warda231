@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **wardamjad039@gmail.com**
 
+<!-- View count -->
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=noorfatima&&style=for-the-badge" /> </p>
+
 - ⚡ Fun fact **I love to solve errors**
 
 <h3 align="left">Connect with me:</h3>
