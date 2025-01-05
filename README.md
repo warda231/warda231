@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Flutter,Asp.Net,Firebase,SQL**
+- 💬 Ask me about **Flutter, Asp.Net, Firebase, SQL**
 
 - 📫 How to reach me **wardamjad039@gmail.com**
 
