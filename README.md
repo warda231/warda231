@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Werdah Batool</h1>
 <h3 align="center">Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Flutter,Firebase**
+- 💬 Ask me about **Flutter,Asp.Net,Firebase,SQL**
 
 - 📫 How to reach me **wardamjad039@gmail.com**
 
